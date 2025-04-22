@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Customer Churn Prediction",
+        "description": "Built a machine learning model to predict customer churn with 92% accuracy using XGBoost and deployed as a Flask API.",
+        "image": "images/churn-prediction.jpg",
+        "tags": ["Python", "Machine Learning", "Flask", "XGBoost"],
+        "code": "https://github.com/yourusername/churn-prediction",
+        "demo": "https://your-churn-app.herokuapp.com"
+    },
+    {
+        "title": "Automated Data Pipeline",
+        "description": "Created an automated ETL pipeline with Airflow that processes 1M+ records daily from multiple sources to a data warehouse.",
+        "image": "images/data-pipeline.jpg",
+        "tags": ["Python", "Airflow", "ETL", "BigQuery"],
+        "code": "https://github.com/yourusername/data-pipeline",
+        "demo": null
+    },
+    {
+        "title": "Sentiment Analysis Dashboard",
+        "description": "Real-time sentiment analysis of Twitter data with NLP and visualization dashboard using Plotly Dash.",
+        "image": "images/sentiment-analysis.jpg",
+        "tags": ["Python", "NLP", "Dash", "Twitter API"],
+        "code": "https://github.com/yourusername/sentiment-analysis",
+        "demo": "https://your-sentiment-dash.herokuapp.com"
+    },
+    {
+        "title": "Recommendation System",
+        "description": "Content-based recommendation engine for e-commerce products using cosine similarity and collaborative filtering.",
+        "image": "images/recommendation-engine.jpg",
+        "tags": ["Python", "Machine Learning", "Flask", "Pandas"],
+        "code": "https://github.com/yourusername/recommendation-engine",
+        "demo": null
+    },
+    {
+        "title": "Computer Vision for Quality Control",
+        "description": "Implemented a CNN model to detect manufacturing defects with 96% accuracy using TensorFlow.",
+        "image": "images/computer-vision.jpg",
+        "tags": ["Python", "TensorFlow", "Computer Vision", "OpenCV"],
+        "code": "https://github.com/yourusername/quality-control-cv",
+        "demo": null
+    },
+    {
+        "title": "Automated Report Generation",
+        "description": "Script that automatically generates and emails PDF reports from database queries using Python and LaTeX.",
+        "image": "images/automated-reports.jpg",
+        "tags": ["Python", "Automation", "LaTeX", "Cron"],
+        "code": "https://github.com/yourusername/automated-reports",
+        "demo": null
+    }
+]
